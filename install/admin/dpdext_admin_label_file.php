@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/rocketstudio.dpdext/admin/dpdext_admin_label_file.php");?>

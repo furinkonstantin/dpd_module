@@ -1,0 +1,2 @@
+<? if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();?>
+<?=$arItem["address"]?><br><a href="javascript:void(0);" data-code="<?=$arItem["terminalCode"]?>" class="dpd_btn_pwp" onClick="dpdChoosenTerminalOnMap(this);return false;">Выбрать</a>

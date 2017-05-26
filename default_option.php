@@ -1,0 +1,8 @@
+<?
+$rocketstudio_dpdext_default_option = array(
+	"IS_TEST" => 1,
+	"PICKUP_TIME_PERIOD" => GetMessage("ROCKETSTUDIO_DPDEXT_PICKUP_TIME_PERIOD_9_18"),
+	"SENDER_ADDRESS_STREET_ABBR" => GetMessage("ROCKETSTUDIO_DPDEXT_SENDER_ADDRESS_STREET_ABBR_STR"),
+	"CARGO_NUMPACK" => 1
+);
+?>

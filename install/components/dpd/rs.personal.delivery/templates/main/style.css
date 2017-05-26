@@ -1,0 +1,31 @@
+.dpd_calculate{
+    padding: 10px;
+}
+.dpd_calculate_input{
+    display: none;
+    margin: 10px 0;
+}
+.dpd_calculate_output{
+    display: none;
+}
+
+.dpd_calculate_show{
+    font-size: 12px;
+    color: #13a5ff;
+}
+.dpd_calculate_show:hover{
+    cursor: pointer;
+}
+
+.dpd_calculate_output li{
+    list-style: none;
+}
+
+.dpd_calculate_output ul{
+    padding-left: 0;
+    font-size: 13px;
+}
+
+.modal_popup{
+    position: absolute;
+}

@@ -1,0 +1,47 @@
+.dpd_calculate{
+	padding: 10px;
+}
+.dpd_calculate_input{
+		display: none;
+		margin: 10px 0;
+}
+.dpd_calculate_output{
+		display: none;
+}
+
+.dpd_calculate_show{
+		font-size: 12px;
+		color: #13a5ff;
+}
+.dpd_calculate_show:hover{
+		cursor: pointer;
+}
+
+.dpd_calculate_output li{
+		list-style: none;
+}
+
+.dpd_calculate_output ul{
+		padding-left: 0;
+		font-size: 13px;
+}
+
+.dpd_map_popup{
+	display: none;
+}
+.show_dpd_map{
+	color: #13a5ff;
+	text-decoration: underline;
+	padding: 1px 0;
+	width: 100px;
+	height: 100px;
+}
+.show_dpd_map:hover{
+	cursor: pointer;
+	text-decoration: none;
+}
+
+#map_dpd {
+	width: 500px;
+	height: 500px;
+}

@@ -1,0 +1,33 @@
+.cbx-adm-workarea {
+	padding: 0;
+}
+.cbx-adm-workarea__head {
+	background: #E0E8EA;
+    color: #4B6267;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 14px 4px;
+    text-align: center;
+    text-shadow: 0 1px #FFFFFF;
+}
+.cbx-adm-workarea__body {
+	padding: 20px;
+    background: #FFFFFF;
+    border: 2px solid #CED7D8;
+	border-top: none;
+}
+.cbx-adm-workarea__body table {
+	width: 100%;
+}
+.cbx-adm-workarea__btns {
+	padding: 20px 0 0 0;
+}
+.cbx-adm-workarea__btns input {
+	margin-right: 10px;
+}
+.dpd-width90 {
+	width: 90%;
+}
+.adm-btn {
+	margin-bottom: 20px;
+}

@@ -1,0 +1,5 @@
+<?
+$MESS["ROCKETSTUDIO_DPDEXT_POPUP_GET_INVOICE_TITLE"] = "Счет-фактура DPD";
+$MESS["ROCKETSTUDIO_DPDEXT_POPUP_NO_RESULTS"] = "Результатов не найдено!";
+$MESS["ROCKETSTUDIO_DPDEXT_PRINT"] = "Распечатать";
+?>
